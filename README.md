@@ -45,3 +45,11 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+Resourse:
+
+JSON Resumen - The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+
+URL: https://jsonresume.org/
+

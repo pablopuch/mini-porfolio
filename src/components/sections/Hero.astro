@@ -1,0 +1,40 @@
+---
+import { basics } from '@cv'
+import Section from '@/components/Section.astro'
+
+const { name, label, image, location, profiles, phone, email } = basics
+const {city, region } = location
+
+
+---
+
+<Section>
+    <div class="container">
+        <div class="info"></div>
+            <h1>{name}</h1>
+            <h2>{label}</h2>
+            <span>
+                <!--Robar iconono-->
+                {
+                    email && (
+                        <a  href={`mailto:${email}`}
+                            title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+                            target="_blamk"
+                            rel="noopener noreferrer"
+                        >
+
+                        </a>
+                    )
+                }
+            </span>
+            <footer>
+            </footer>
+    </div>
+    <figure>
+        <img src={image} alt={name} />
+    </figure>
+</Section>
+
+<style>
+
+</style>
