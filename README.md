@@ -53,3 +53,7 @@ JSON Resumen - The open source initiative to create a JSON-based standard for re
 
 URL: https://jsonresume.org/
 
+https://github.com/BartoszJarocki/cv/tree/main
+
+https://www.youtube.com/watch?v=Zwh92LTB-Bk
+
