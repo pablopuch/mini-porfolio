@@ -15,6 +15,7 @@ import Python from "@/icons/python.astro"
 import FastAPI from "@/icons/fastapi.astro"
 import Bootstrap from "@/icons/bootstrap.astro"
 import Laravel from "@/icons/laravel.astro"
+import MongoDB from "@/icons/mongoDB.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -30,8 +31,8 @@ const SKILLS_ICONS: Record<string, any> = {
   WordPress,
   Python,
   FastAPI,
-  Laravel
-  
+  Laravel,
+  MongoDB,
 }
 ---
 
@@ -39,7 +40,7 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        const iconName = name === "Laravel" ? "Laravel" : name
         const Icon = SKILLS_ICONS[iconName]
 
         return (

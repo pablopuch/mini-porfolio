@@ -29,9 +29,9 @@
   },
   "work": [
     {
-      "name": "DRIVE ME RENTING",
+      "name": "DRIVE ME GROUP",
       "position": "Desarrollador Full-stack",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://www.drivemegroup.com/",
       "startDate": "03/02/2023",
       "endDate": "11/06/2024",
       "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
@@ -40,21 +40,22 @@
       ]
     },
     {
-      "name": "modoBim",
+      "name": "tokenMYs",
       "position": "Desarrollador web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
+      "url": "https://tokenmys.io/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-09-01",
       "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "3com Marketing",
+      "name": "3COM Marketing",
       "position": "Desarrollador web",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
+      "url": "https://3commarketing.com/",
+      "startDate": "2019-03-01",
+      "endDate": "2021-05-01",
       "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
       "highlights": [
         "Started the company"
@@ -80,8 +81,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Master Especialización en Big Data & IA",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -92,8 +93,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Desarrollo de Aplicaciones Multiplataforma",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -104,8 +105,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Desarrollo de Aplicaciones Web",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -116,8 +117,8 @@
       "url": "https://www.uoc.edu/portal/es/index.html",
       "area": "Administración de Sistemas Informáticos en red",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
+      "startDate": "2017-01-01",
+      "endDate": "2019-01-01",
       "score": "4.0",
       "courses": [
         "DB1101 - Basic SQL"
@@ -216,6 +217,16 @@
     },
     {
       "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "MongoDB",
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones",
