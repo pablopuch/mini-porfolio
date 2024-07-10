@@ -2,7 +2,7 @@
   "basics": {
     "name": "Pablo Manuel Puch García",
     "label": "Desarrollador de Software y Especializado en Big Data y IA",
-    "image": "https://avatars.githubusercontent.com/u/33840582?s=400&u=7651b9a5d857880d1c5ef304f72f1acf44917224&v=4",
+    "image": "https://avatars.githubusercontent.com/u/33840582?s=400&u=dc872296d56b6af7c3fa8044b59a8b8302274463&v=4",
     "email": "pablopuch21@gmail.com",
     "phone": "+34 692478808",
     "url": "https://midu.dev",
@@ -10,7 +10,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Las Palmas de Gran Canarias",
+      "city": "Las Palmas de Gran Canaria",
       "countryCode": "ES",
       "region": "España"
     },
@@ -34,7 +34,7 @@
       "url": "https://www.drivemegroup.com/",
       "startDate": "03/02/2023",
       "endDate": "11/06/2024",
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Como parte de un equipo del departamento de I.T., he desempeñado labores de mantenimiento y cooperación en diversos proyectos. Encargado de desarrollar proyectos desde cero en lenguajes PHP, JavaScript, HTML y CSS con el uso de las herramientas de CMS WordPress y framework de CSS como Tailwind y Bootstrap.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://tokenmys.io/",
       "startDate": "2023-01-01",
       "endDate": "2023-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "summary": "Desarrollo de aplicaciones para la startup tokenMYs, enfocado en la parte web usando las herramientas WordPress y JavaScript, con el framework React Native para el apartado de web métricas. Como encargado del apartado web me toco desempeñar labores de SEO y marketing, para el posicionamiento y visibilidad del proyecto. ",
       "highlights": [
         "Started the company"
       ]
@@ -56,7 +56,7 @@
       "url": "https://3commarketing.com/",
       "startDate": "2019-03-01",
       "endDate": "2021-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Desarrollo de proyectos en entorno web con el uso de los lenguajes de PHP, JavaScript y con el framework de Laravel y haciendo uso del CMS WordPress para las tareas de optimización, creando contenido para el posicionamiento (SEO), diseño y maquetación de páginas web. ",
       "highlights": [
         "Started the company"
       ]
@@ -91,7 +91,7 @@
     {
       "institution": "IES El Rincón – Las Palmas de Gran Canaria",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Desarrollo de Aplicaciones Multiplataforma",
+      "area": "Desarrollo de Aplicaciones Multiplataforma (CFGS)",
       "studyType": "Bachelor",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
@@ -103,7 +103,7 @@
     {
       "institution": "IES El Rincón – Las Palmas de Gran Canaria",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Desarrollo de Aplicaciones Web",
+      "area": "Desarrollo de Aplicaciones Web (CFGS)",
       "studyType": "Bachelor",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
@@ -115,7 +115,7 @@
     {
       "institution": "IES El Rincón – Las Palmas de Gran Canaria",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Administración de Sistemas Informáticos en red",
+      "area": "Administración de Sistemas Informáticos en red (CFGS)",
       "studyType": "Bachelor",
       "startDate": "2017-01-01",
       "endDate": "2019-01-01",
@@ -207,22 +207,13 @@
       ]
     },
     {
-      "name": "Git",
+      "name": "WordPress",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
+        "Desarrollo Web",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
@@ -286,15 +277,25 @@
       ]
     },
     {
-      "name": "WordPress",
+      "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     }
+
   ],
   "languages": [
     {
@@ -363,35 +364,7 @@
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
+
   ]
 }
