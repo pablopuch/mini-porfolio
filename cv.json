@@ -334,6 +334,17 @@
       "github": "https://github.com/pablopuch/manager_passwork"
     },
     {
+      "name": "Profolio Minimalista",
+      "isActive": true,
+      "description": "Ten tú porfolio minimalista con Astro",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://pablo-puch.netlify.app",
+      "github": "https://github.com/pablopuch/mini-porfolio"
+    },
+    {
       "name": "Sagulpa",
       "isActive": true,
       "description": "Modelo de prediccion de entras y salida de coches en un parking a una hora y día",
