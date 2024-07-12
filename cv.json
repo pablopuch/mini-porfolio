@@ -295,7 +295,6 @@
         "Git"
       ]
     }
-
   ],
   "languages": [
     {
@@ -324,47 +323,50 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Manager passwork",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Un gestor para tus contraseñas del trabajo creado con Laravel",
       "highlights": [
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/pablopuch/manager_passwork",
+      "github": "https://github.com/pablopuch/manager_passwork"
     },
     {
-      "name": "AdventJS",
+      "name": "Sagulpa",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Modelo de prediccion de entras y salida de coches en un parking a una hora y día",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/pablopuch/sagulpa_final",
+      "github": "https://github.com/pablopuch/sagulpa_final"
     },
     {
-      "name": "Codember",
+      "name": "Flask_api",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Un proyecto sencillo para crear una aplicación Python usando Flask para consumir una API de video",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://github.com/pablopuch/api_web_python",
+      "github": "https://github.com/pablopuch/api_web_python"
+    },
+    {
+      "name": "FastAPI",
+      "isActive": true,
+      "description": "FastAPI es un api basica de autenticación y autentificacion con token",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://fast-api-sandy.vercel.app/docs",
+      "github": "https://github.com/pablopuch/FastAPI"
     }
-
   ]
 }
