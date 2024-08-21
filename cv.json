@@ -323,6 +323,17 @@
   ],
   "projects": [
     {
+      "name": "Retrieval-Augmented Generation (RAG)",
+      "isActive": true,
+      "description": "Chatea con tus PDF con la ayuda de llama3.1",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://github.com/pablopuch/rag",
+      "github": "https://github.com/pablopuch/rag"
+    },
+    {
       "name": "Manager passwork",
       "isActive": true,
       "description": "Un gestor para tus contraseñas del trabajo creado con Laravel",
