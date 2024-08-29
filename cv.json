@@ -378,28 +378,5 @@
       "url": "https://github.com/pablopuch/sagulpa_final",
       "github": "https://github.com/pablopuch/sagulpa_final"
     },
-    {
-      "name": "Flask_api",
-      "isActive": true,
-      "description": "Un proyecto sencillo para crear una aplicación Python usando Flask para consumir una API de video",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://github.com/pablopuch/api_web_python",
-      "github": "https://github.com/pablopuch/api_web_python"
-    },
-    {
-      "name": "FastAPI",
-      "isActive": true,
-      "description": "FastAPI es un api basica de autenticación y autentificacion con token",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://fast-api-sandy.vercel.app/docs",
-      "github": "https://github.com/pablopuch/FastAPI"
-    }
   ]
 }
