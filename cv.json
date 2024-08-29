@@ -322,8 +322,8 @@
     }
   ],
   "projects": [
-            {
-      "name": "Web profecinal con Astro",
+      {
+      "name": "Web profecinal con Astro (en desarrollo)",
       "isActive": true,
       "description": "Desarrollo de web profecinal con framework Astro usando TypeScript y JavaScript",
       "highlights": [
@@ -332,7 +332,7 @@
       ],
       "url": "https://libella.netlify.app/",
       "github": "https://github.com/pablopuch/libella-web"
-    },
+      },
         {
       "name": "API para prosesamiento de PDF",
       "isActive": true,
