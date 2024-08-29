@@ -322,6 +322,17 @@
     }
   ],
   "projects": [
+        {
+      "name": "API para prosesamiento de PDF",
+      "isActive": true,
+      "description": "Esta API permite subir y procesar documentos PDF para posteriormente realizar consultas sobre su contenido utilizando modelos de lenguaje natural (LLMs)",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://github.com/pablopuch/api_rag",
+      "github": "https://github.com/pablopuch/api_rag"
+    },
     {
       "name": "Retrieval-Augmented Generation (RAG)",
       "isActive": true,
