@@ -31,9 +31,9 @@
     {
       "name": "Telemática Avanzada Canaria S.L.",
       "position": "Desarrollador de Proyecto de IA",
-      "startDate": "2024-07-01",
-      "endDate": "2024-02-01",
-      "summary": "Desarrollo de soluciones de inteligencia artificial para la optimización de la gestión de información empresarial en la administración pública.",
+      "startDate": "01/07/2024",
+      "endDate": "07/02/2025",
+      "summary": "Implementación de soluciones de inteligencia artificial enfocadas en optimizar la gestión y el procesamiento de información empresarial en la administración pública. Mi labor se centró en la integración de modelos de lenguaje natural para automatizar tareas de análisis y clasificación de documentos, facilitando la toma de decisiones y mejorando la eficiencia operativa.",
       "highlights": [
         "Implementación del modelo Llama 3.2 en servidores gubernamentales para mejorar el análisis de datos y la toma de decisiones.",
         "Desarrollo del backend en PHP y Python, integrando inteligencia artificial para el procesamiento automatizado de documentos en PDF.",
